@@ -11,7 +11,7 @@ function Home(props) {
           <h5>Contact me:</h5>
           <p>
             email: rosiephelan223@gmail.com <br />
-            LinkedIn: https://www.linkedin.com/in/rosie-phelan-3b05b4147/
+            <a href="https://www.linkedin.com/in/rosie-phelan-3b05b4147/">LinkedIn</a>
           </p>
         </div>
       </div>
