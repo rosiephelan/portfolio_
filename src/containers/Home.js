@@ -1,7 +1,5 @@
 import React from "react";
 import "../App.css";
-import NavBar from "./NavBar";
-import Projects from '../components/Projects'
 
 function Home(props) {
   return (

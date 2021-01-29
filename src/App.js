@@ -4,7 +4,7 @@ import Home from './containers/Home';
 import Projects from './components/Projects';
 import About from './components/About'
 import Articles from './components/Articles';
-import { Route, Switch, Redirect, BrowserRouter as Router } from 'react-router-dom';
+import { Route, Switch, BrowserRouter as Router } from 'react-router-dom';
 import NavBar from './containers/NavBar';
 
 function App() {
